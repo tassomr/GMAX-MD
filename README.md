@@ -71,7 +71,7 @@ You will need a session ID to run the GMAX-MD. Click the button below to obtain 
 
 > **1️⃣Pair Code (Session ID)**
 
-<a href='https://sessions12-86cb4755b42a.herokuapp.com/' target="_blank">
+<a href='https://gmax-mega-1.onrender.com/' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 <br> 
