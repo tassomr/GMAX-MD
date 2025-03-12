@@ -8,7 +8,7 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put your Gmax session-id here.",
+      "description": "GMAX-MD~WVpUCSxI#UJ6OOrJnm9jsa0zSM69JGSI7PBUhEITbm-Aba5450_w.",
       "required": true,
       "value": ""
     },  
